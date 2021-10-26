@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bonolo19
+- 👀 I’m interested in .Net MVC and Core development
+- 🌱 I’m currently learning Azure 
+- 💞️ I’m looking to collaborate on .Net code
+- 📫 How to reach me [mail]: bglegodi@gmail.com
